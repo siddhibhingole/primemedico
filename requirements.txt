@@ -1,0 +1,10 @@
+
+langchain
+flask
+pypdf
+python-dotenv
+pinecone[grpc]
+langchain_pinecone
+langchain_openai
+langchain_experimental
+-e .
